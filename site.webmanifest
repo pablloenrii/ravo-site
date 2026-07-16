@@ -1,0 +1,22 @@
+{
+  "name": "RAVO — Engenharia de Software Inteligente",
+  "short_name": "RAVO",
+  "description": "A RAVO é uma AI Software House que projeta, desenvolve e evolui plataformas digitais que aumentam produtividade, automatizam processos e geram vantagem competitiva.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0c",
+  "theme_color": "#E8442C",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
